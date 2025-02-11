@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/python-tracker/static/css/main.f855e6bc.css",
+    "main.js": "/python-tracker/static/js/main.7afa81cd.js",
+    "static/js/488.be33a4a7.chunk.js": "/python-tracker/static/js/488.be33a4a7.chunk.js",
+    "index.html": "/python-tracker/index.html",
+    "main.f855e6bc.css.map": "/python-tracker/static/css/main.f855e6bc.css.map",
+    "main.7afa81cd.js.map": "/python-tracker/static/js/main.7afa81cd.js.map",
+    "488.be33a4a7.chunk.js.map": "/python-tracker/static/js/488.be33a4a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.7afa81cd.js"
+  ]
+}
